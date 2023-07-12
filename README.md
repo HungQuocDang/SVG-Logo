@@ -9,7 +9,7 @@ https://github.com/HungQuocDang/SVG-Logo
 
 https://hungquocdang.github.io/SVG-Logo/
 
-# Screenshot
+# Screenshot:
 
 # SVG-Logo
 
