@@ -9,3 +9,5 @@ User will enter from GIT Bash, node index.js, and will be prompted to enter up t
 # Screenshot
 ![test](SVG%20Logo.PNG)
 # SVG-Logo
+
+![SVG Logo](https://github.com/HungQuocDang/SVG-Logo/assets/129162404/a304738b-2125-43a3-8630-46425887ab46)
