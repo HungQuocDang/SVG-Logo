@@ -5,6 +5,9 @@ User will enter from GIT Bash, node index.js, and will be prompted to enter up t
 
 # Link:
 
+https://github.com/HungQuocDang/SVG-Logo
+
+https://hungquocdang.github.io/SVG-Logo/
 
 # Screenshot
 
